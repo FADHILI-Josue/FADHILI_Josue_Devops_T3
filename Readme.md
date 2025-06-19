@@ -59,6 +59,7 @@ The application is now running and accessible through the NGINX proxy.
 curl http://localhost
 ```
 You should see the output: `Hello, DevOps!`
+
 ![screenshot](./screenshot.png)
 
 **Option B: Use your browser**
